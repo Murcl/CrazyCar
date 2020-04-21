@@ -1,5 +1,0 @@
-@echo off
-
-CLS
-MSP430Flasher.exe -w "EZFET_LITE_Rev1_1_3V6_TEST1_1.txt" -v -e ERASE_TOTAL  -g -z [VCC] 
-pause

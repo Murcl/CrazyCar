@@ -1,9 +1,0 @@
-@echo off
-
-CLS
-MSP430Flasher.exe -w "EZFET_LITE_Rev1_1_FW_3_3_0_6.txt" -v -u -e ERASE_ALL -g -z [VCC] 
-pause
-MSP430Flasher.exe -r [ReLogMain.txt,MAIN] 
-MSP430Flasher.exe -r [ReLogInfo.txt,INFO] -u
-MSP430Flasher.exe -r [ReLogBSL.txt,BSL] 
-pause
