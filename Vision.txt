@@ -1,0 +1,3 @@
+Nach Projektabschluss ist das CrazyCar über ein Programm am PC mithilfe der Pfeiltasten der Tastatur fernsteuerbar.
+Unterstützend wird am PC auch ein Videostream der am Fahrzeug montierten Kamera angezeigt, sodass das Fahrzeug mithilfe des Kamerabildes gesteuert werden kann.
+Die Übertragung der Daten zwischen dem Fahrzeug und dem PC erfolgt via WLAN. 
