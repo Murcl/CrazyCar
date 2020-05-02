@@ -1,0 +1,44 @@
+US1-1: First Person Camera
+
+Als Schüler bzw. Student
+möchte ich eine First Person Camera am Auto haben 
+um mich möglichst in der Position des Fahrers zu fühlen und zu sehen welche Hindernisse direkt vor mir sind.
+
+Rückseite US1-1:
+Das Bild wird mithilfe eines iPhones und der App "Instant Webcam" über eine WLAN Verbindung übertragen.
+
+US1-2: Verzögerungsfreie Bildübertragung
+
+Als Schüler bzw. Student
+möchte ich eine verzögerungsfreie Bildübertragung von der Kamera 
+um möglichst schnell auftauchende Hindernisse sehe und darauf reagieren kann.
+
+Rückseite US1-2:
+Das Bild wird mithilfe eines iPhones und der App "Instant Webcam" über eine WLAN Verbindung übertragen.
+
+US1-3: Steuerung
+
+Als Schüler bzw. Student 
+möchte ich eine einfache Steuerungsmöglichkeit (Über Pfeiltasten der Tastatur oder in der Benutzeroberfläche)
+um meine Steuerbefehle ohne nötiges Fachwissen für Commandline-Befehle an das Auto weitergeben zu können.
+
+Rückseite US1-3:
+Wenn der Benutzer den Button "links" oder die Pfeiltaste "links" auf der Tastatur betätigt, wird über eine bestehende WLAN Verbindung
+der entsprechende Steuerbefehl von der Software and das Auto gesendet.
+
+US1-4: Visualisierung
+
+Als Schüler bzw. Student
+möchte ich das Kamerabild in derselben Anwendung wie die Steuerbefehle sehen
+um möglichst wenig Aufwand für das Öffnen des Programms zu benötigen.
+
+Rückseite US1-4:
+Über die bestehende Verbindung zur App "Instant Webcam" wird das Bild von der Kamera direkt in Farbe in die UI der Software eingebettet.
+
+US1-5: Safety First
+
+Als zahlender Besitzer des Autos (Lehrstuhl CIT)
+möchte ich eine eingebaute Notstop-Funktion 
+damit vor Hindernissen rechtzeitig gestoppt wird und das Auto in weiterer Folge nicht kaputt wird.
+
+Rückseite US1-5:
