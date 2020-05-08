@@ -42,3 +42,4 @@ möchte ich eine eingebaute Notstop-Funktion
 damit vor Hindernissen rechtzeitig gestoppt wird und das Auto in weiterer Folge nicht kaputt wird.
 
 Rückseite US1-5:
+Über die am Auto angebrachten Sensoren soll in 100cm Entfernung von einem Hindernis das Bremsen eingeleitet werden. Dabei soll ab einer Entfernung von <= 100cm der Motor in Leerlauf geschaltet werden und ab <= 50cm soll gebremst werden.
