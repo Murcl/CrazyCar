@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sweng.controller.ControllsController">
+    <children>
+        <Button fx:id="straight" layoutX="279.0" layoutY="111.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="50.0" text="↑">
+            <font>
+                <Font size="22.0" />
+            </font>
+        </Button>
+        <Button fx:id="left" layoutX="229.0" layoutY="161.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="50.0" text="←">
+            <font>
+                <Font size="22.0" />
+            </font>
+        </Button>
+        <Button fx:id="right" layoutX="329.0" layoutY="161.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="50.0" text="→">
+            <font>
+                <Font size="22.0" />
+            </font>
+        </Button>
+        <Button fx:id="back" layoutX="279.0" layoutY="161.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="50.0" text="↓">
+            <font>
+                <Font size="22.0" />
+            </font>
+        </Button>
+      <Button fx:id="bremse" layoutX="427.0" layoutY="161.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="121.0" text="Bremsen">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Button>
+    </children>
+</AnchorPane>
