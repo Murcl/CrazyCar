@@ -1,0 +1,4 @@
+# Global .gitignore
+
+### Synology Files ###
+*.DS_Store

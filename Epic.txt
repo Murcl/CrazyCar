@@ -1,4 +1,4 @@
 Das sichere Steuern des CrazyCars ohne Sichtkontakt.
 
 Neu, 02.05.2020
-Als Schüler, Student möchte ich das CrazyCar nur mithilfe eines Kamerastreams und einer gegebenen Steuerungsmöglichkeit steuern können um das Auto ohne Sichtkontakt fernsteuern zu können und möglichst viel Spaß dabei haben.
+Als Schüler, Student möchte ich das CrazyCar nur mithilfe eines Kamerastreams und einer gegebenen Steuerungsmöglichkeit steuern können um das Auto ohne Sichtkontakt fernsteuern zu können und möglichst viel Spaß dabei zu haben.
