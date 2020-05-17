@@ -3,12 +3,12 @@ Dieses Modellauto wird vom Lehrstuhl für Informationstechnologie an der Montanu
 Aufbauend auf der verfügbaren Hardware des Autos soll ein Programm zur sicheren Fernsteuerung des Autos geschrieben werden. 
 Dabei geht es insbesondere darum, dem Benutzer die Freiheit zu geben, nicht am selben Ort wie das Auto zu sein. 
 Dies wird mithilfe einer First Person Camera, welche am Auto montiert wird und deren Bild mittels eines Streams an die Benutzeroberfläche übertragen wird, gelöst.
-Weiters bekommt der Nutzer eine Steuerungsmöglichkeit direkt in der Benutzerpberfläche der Software.
+Weiters bekommt der Nutzer eine Steuerungsmöglichkeit direkt in der Benutzeroberfläche der Software.
 Die Übertragung der Steuerbefehle sowie des Videostreams erfolgt über WLAN.
 
 Mithilfe dieser Software wird es dem Lehrstuhl für Informationstechnologie ermöglicht, Schüler, Studenten oder verspielte Techniker mithilfe des Autos zu begeistern.
 Es können bestimmte zu meisternde Strecken aufgebaut werden, welche die Benutzer nur mithilfe des Kamerabilds durchfahren dürfen. 
 
 Damit das Auto und dessen besondere Funktionalitäten nicht einem zu begeisterten Schüler oder Vorzeigendem zum Opfer fallen benötigt es auch einen Notbremsmechanismus.
-So soll etwa mithilfe der verbauten Sensoren regelmäßig der Abstand zu Hindernissen gemessen werden.
-Mithilfe dieser Werte soll wird der benötigte Bremsweg berechnet und sollte dieser überschritten werden, bremst das Auto automatisch vor dem Hindernis ab um es vor einem Totalschaden zu bewahren.
+So soll etwa mithilfe der verbauten Sensoren regelmäßig der Abstand zu Hindernissen und die Geschwindigkeit gemessen werden.
+Mithilfe dieser Werte wird der benötigte Bremsweg berechnet und sollte dieser überschritten werden, bremst das Auto automatisch vor dem Hindernis ab um es vor einem Totalschaden zu bewahren.

@@ -5,25 +5,26 @@ möchte ich eine First Person Camera am Auto haben
 um mich möglichst in der Position des Fahrers zu fühlen und zu sehen welche Hindernisse direkt vor mir sind.
 
 Rückseite US1-1:
-Das Bild wird mithilfe eines iPhones und der App "Instant Webcam" über eine WLAN Verbindung übertragen.
+Das Bild wird mithilfe eines Smartphones und der App "Instant Webcam" (iOS) oder "#LiveDroid: Wireless WebCam" (Android) über eine WLAN Verbindung übertragen.
 
 US1-2: Verzögerungsfreie Bildübertragung
 
 Als Schüler bzw. Student
-möchte ich eine verzögerungsfreie Bildübertragung von der Kamera 
-um möglichst schnell auftauchende Hindernisse sehe und darauf reagieren kann.
+möchte ich eine verzögerungsfreie Bildübertragung in ausreichender Qualität
+um möglichst schnell auftauchende Hindernisse zu sehen und darauf reagieren zu können.
 
 Rückseite US1-2:
-Das Bild wird mithilfe eines iPhones und der App "Instant Webcam" über eine WLAN Verbindung übertragen.
+Das Bild wird mithilfe eines Smartphones und der App "Instant Webcam" (iOS) oder "#LiveDroid: Wireless WebCam" (Android) über eine WLAN Verbindung übertragen.
 
 US1-3: Steuerung
 
 Als Schüler bzw. Student 
-möchte ich eine einfache Steuerungsmöglichkeit (Über Pfeiltasten der Tastatur oder in der Benutzeroberfläche)
+möchte ich das Auto über die Pfeiltasten der Tastatur oder Pfeile in der Benutzeroberfläche steuern
 um meine Steuerbefehle ohne nötiges Fachwissen für Commandline-Befehle an das Auto weitergeben zu können.
 
 Rückseite US1-3:
-Wenn der Benutzer den Button "links" oder die Pfeiltaste "links" auf der Tastatur betätigt, wird über eine bestehende WLAN Verbindung
+Wenn der Benutzer den Button "links" oder die linke Pfeiltaste auf der Tastatur betätigt
+wird über eine bestehende WLAN Verbindung
 der entsprechende Steuerbefehl von der Software and das Auto gesendet.
 
 US1-4: Visualisierung
@@ -33,13 +34,15 @@ möchte ich das Kamerabild in derselben Anwendung wie die Steuerbefehle sehen
 um möglichst wenig Aufwand für das Öffnen des Programms zu benötigen.
 
 Rückseite US1-4:
-Über die bestehende Verbindung zur App "Instant Webcam" wird das Bild von der Kamera direkt in Farbe in die UI der Software eingebettet.
+Über die bestehende Verbindung zur Smartphone-App wird das Bild von der Kamera direkt in Farbe in die UI der Software eingebettet.
 
 US1-5: Safety First
 
 Als zahlender Besitzer des Autos (Lehrstuhl CIT)
-möchte ich eine eingebaute Notstop-Funktion 
-damit vor Hindernissen rechtzeitig gestoppt wird und das Auto in weiterer Folge nicht kaputt wird.
+möchte ich eine eingebaute Notstopp-Funktion 
+damit vor Hindernissen rechtzeitig gestoppt wird und das Auto in weiterer Folge nicht beschädigt wird.
 
 Rückseite US1-5:
-Über die am Auto angebrachten Sensoren soll in 100cm Entfernung von einem Hindernis das Bremsen eingeleitet werden. Dabei soll ab einer Entfernung von <= 100cm der Motor in Leerlauf geschaltet werden und ab <= 50cm soll gebremst werden.
+Über die am Auto angebrachten Sensoren sollen ständig der Abstand zu Hindernissen und die Geschwindigkeit gemessen werden
+und der Bremsweg, der über die Geschwindigkeit berechnet wird soll mit dem Abstand verglichen werden
+und das Auto soll selbstständig das Bremsen einleiten, sobald der benötigte Bremsweg unterschritten wird um einen Totalschaden zu vermeiden.
